@@ -627,7 +627,10 @@ article em {
 		}
 
 	.quote-1 cite {
-		color: hsl(6,100%,65%);
+		color: hsl(216,82%,60%);
+		/*color: LimeGreen;*/
+		/*color: DeepPink;*/
+		/*color: hsl(6,100%,65%);*/
 		font-size: 1.3rem;
 		font-weight: 400;
 		display: block;
