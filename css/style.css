@@ -224,7 +224,7 @@ article p {
 	color: hsl(255,0%,37%);
 	text-align: left;
 
-	padding: 1.5rem 0;
+	padding: 1.2rem 0;
 }
 
 article em {
@@ -1784,7 +1784,7 @@ ul.cd-gallery {
 	line-height: 2.5rem;
 	color: hsl(255,0%,40%);
 	text-align: left;
-	padding: 1.5rem 0;
+	padding: 1.2rem 0;
 
 	-webkit-transition: -webkit-transform 0.2s 0s, opacity 0.2s 0s;
 	-moz-transition: -moz-transform 0.2s 0s, opacity 0.2s 0s;
