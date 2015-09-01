@@ -1366,6 +1366,7 @@ ul.cd-gallery {
 }
 .cd-item > a h2 {
 	font-size: 2.5rem;
+	line-height: 3rem;
 }
 
 .cd-item > a.dark-text,
